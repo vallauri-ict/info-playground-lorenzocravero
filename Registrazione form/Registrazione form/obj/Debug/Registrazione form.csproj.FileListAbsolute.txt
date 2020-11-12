@@ -1,0 +1,10 @@
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\bin\Debug\Registrazione form.exe.config
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\bin\Debug\Registrazione form.exe
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\bin\Debug\Registrazione form.pdb
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\obj\Debug\Registrazione form.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\obj\Debug\Registrazione_form.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\obj\Debug\Registrazione_form.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\obj\Debug\Registrazione form.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\obj\Debug\Registrazione form.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\obj\Debug\Registrazione form.exe
+D:\4B Inf 2020 2021\Informatica\Registrazione form\Registrazione form\obj\Debug\Registrazione form.pdb
