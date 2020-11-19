@@ -48,6 +48,7 @@ namespace Esercizio_1_classi
         {
             Fatture f = new Fatture();
             MessageBox.Show("Fattura creata!");
+            MessageBox.Show("Numero di fattura corrente: " + f.x);
         }
 
         private void BtnNFattura_Click(object sender, EventArgs e)
