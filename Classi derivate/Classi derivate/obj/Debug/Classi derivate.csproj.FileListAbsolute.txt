@@ -1,0 +1,10 @@
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\bin\Debug\Classi derivate.exe.config
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\bin\Debug\Classi derivate.exe
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\bin\Debug\Classi derivate.pdb
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi_derivate.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi_derivate.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.exe
+D:\4B Inf 2020 2021\Informatica\Classi derivate\Classi derivate\obj\Debug\Classi derivate.pdb
