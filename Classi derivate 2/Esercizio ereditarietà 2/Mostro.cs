@@ -11,11 +11,12 @@ namespace Esercizio_ereditarietà_2
         public string nome;
         public Mostro() :this("Mostro")
         {
-
+            //System.Windows.Forms.MessageBox.Show("secondo");
         }
 
         public Mostro(string nome)
         {
+            //System.Windows.Forms.MessageBox.Show("primo");
             this.nome = nome;
         }
 

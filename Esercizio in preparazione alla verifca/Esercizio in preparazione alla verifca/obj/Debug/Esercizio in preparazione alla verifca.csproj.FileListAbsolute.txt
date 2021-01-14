@@ -1,0 +1,13 @@
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\bin\Debug\Esercizio in preparazione alla verifca.exe.config
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\bin\Debug\Esercizio in preparazione alla verifca.exe
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\bin\Debug\Esercizio in preparazione alla verifca.pdb
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio in preparazione alla verifca.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio_in_preparazione_alla_verifca.Figlia.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio_in_preparazione_alla_verifca.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio_in_preparazione_alla_verifca.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio in preparazione alla verifca.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio in preparazione alla verifca.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio in preparazione alla verifca.exe
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio in preparazione alla verifca.pdb
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio_in_preparazione_alla_verifca.Secondaria.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio in preparazione alla verifca\Esercizio in preparazione alla verifca\obj\Debug\Esercizio_in_preparazione_alla_verifca.Terza.resources

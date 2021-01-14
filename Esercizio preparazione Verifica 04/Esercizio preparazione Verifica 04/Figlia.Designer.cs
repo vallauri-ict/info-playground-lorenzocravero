@@ -1,6 +1,6 @@
 ﻿namespace Esercizio_preparazione_Verifica_04
 {
-    partial class btnRicevi
+    partial class Figlia
     {
         /// <summary>
         /// Required designer variable.
@@ -28,49 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txtModificaFiglia = new System.Windows.Forms.TextBox();
-            this.btnModificaFiglia = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnPassaPapa = new System.Windows.Forms.Button();
+            this.txtFiglia = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // txtModificaFiglia
+            // btnPassaPapa
             // 
-            this.txtModificaFiglia.Location = new System.Drawing.Point(94, 104);
-            this.txtModificaFiglia.Name = "txtModificaFiglia";
-            this.txtModificaFiglia.Size = new System.Drawing.Size(100, 20);
-            this.txtModificaFiglia.TabIndex = 5;
+            this.btnPassaPapa.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.btnPassaPapa.Location = new System.Drawing.Point(45, 65);
+            this.btnPassaPapa.Name = "btnPassaPapa";
+            this.btnPassaPapa.Size = new System.Drawing.Size(75, 40);
+            this.btnPassaPapa.TabIndex = 0;
+            this.btnPassaPapa.Text = "Passa a form1";
+            this.btnPassaPapa.UseVisualStyleBackColor = true;
+            this.btnPassaPapa.Click += new System.EventHandler(this.btnPassaPapa_Click);
             // 
-            // btnModificaFiglia
+            // txtFiglia
             // 
-            this.btnModificaFiglia.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.btnModificaFiglia.Location = new System.Drawing.Point(62, 42);
-            this.btnModificaFiglia.Name = "btnModificaFiglia";
-            this.btnModificaFiglia.Size = new System.Drawing.Size(75, 29);
-            this.btnModificaFiglia.TabIndex = 6;
-            this.btnModificaFiglia.Text = "Modifica";
-            this.btnModificaFiglia.UseVisualStyleBackColor = true;
-            this.btnModificaFiglia.Click += new System.EventHandler(this.btnModificaFiglia_Click);
+            this.txtFiglia.Location = new System.Drawing.Point(32, 39);
+            this.txtFiglia.Name = "txtFiglia";
+            this.txtFiglia.Size = new System.Drawing.Size(100, 20);
+            this.txtFiglia.TabIndex = 1;
             // 
-            // button1
-            // 
-            this.button1.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.button1.Location = new System.Drawing.Point(162, 42);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(92, 29);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Ricevi modifica";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // btnRicevi
+            // Figlia
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(305, 252);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.btnModificaFiglia);
-            this.Controls.Add(this.txtModificaFiglia);
-            this.Name = "btnRicevi";
+            this.ClientSize = new System.Drawing.Size(185, 137);
+            this.Controls.Add(this.txtFiglia);
+            this.Controls.Add(this.btnPassaPapa);
+            this.Name = "Figlia";
             this.Text = "Figlia";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -78,8 +65,8 @@
         }
 
         #endregion
-        private System.Windows.Forms.TextBox txtModificaFiglia;
-        private System.Windows.Forms.Button btnModificaFiglia;
-        private System.Windows.Forms.Button button1;
+
+        private System.Windows.Forms.Button btnPassaPapa;
+        private System.Windows.Forms.TextBox txtFiglia;
     }
 }

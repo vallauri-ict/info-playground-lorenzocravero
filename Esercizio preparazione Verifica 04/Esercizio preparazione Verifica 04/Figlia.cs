@@ -10,26 +10,21 @@ using System.Windows.Forms;
 
 namespace Esercizio_preparazione_Verifica_04
 {
-    public partial class btnRicevi : Form
+    public partial class Figlia : Form
     {
-        public string testoFiglia;
-        public btnRicevi()
+        public TextBox txtdaForm1;
+        public TextBox txtACuiInviare;
+        public Figlia(TextBox txtForm1)
         {
             InitializeComponent();
+            txtdaForm1 = txtForm1;
+            txtFiglia.Text = txtdaForm1.Text;
+            txtACuiInviare = txtForm1;
         }
 
-        private void btnModificaFiglia_Click(object sender, EventArgs e)
+        private void btnPassaPapa_Click(object sender, EventArgs e)
         {
-            testoFiglia = txtModificaFiglia.Text;
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form1 main = new Form1();
-            if(main.ShowDialog()==DialogResult.OK)
-            {
-                txtModificaFiglia.Text = main.testoMain;
-            }
+            txtACuiInviare.Text = txtFiglia.Text;
         }
     }
 }

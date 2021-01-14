@@ -19,7 +19,7 @@ namespace Classi_derivate
         public double Valore()
         {
             if (mutato)
-                return 2 * base.Valore();
+                return 2 * base.Valore(); 
             else
                 return base.Valore();
         }
@@ -29,7 +29,7 @@ namespace Classi_derivate
             if (mutato)
                 return verso;
             else
-                return base.verso;
+                return base.Verso();
         }
 
         public void Muta()

@@ -11,7 +11,11 @@ namespace Registrazione_form
     class Utenti
     {
         //public static string[] utenti = {"default","default", "default", "default", "default", "default", "default", "default", "default", "default" };
-        public static string[] utenti = new string[10];
+        public struct userName
+        {
+            public string user;
+        }
+        public static List<userName> miaLista = new List<userName>();
 
         public static void inserisciDati(TextBox txtCognome, TextBox txtCap, TextBox txtCitta, TextBox txtCod, TextBox txtIndirizzo, TextBox txtMail, TextBox txtNome, TextBox txtPassword, TextBox txtUser)
         {
@@ -29,7 +33,7 @@ namespace Registrazione_form
             sw.WriteLine(s);
             s = "Mail: " + txtMail.Text;
             sw.WriteLine(s);
-            s = "Codice fisacle: " + txtCod.Text;
+            s = "Codice fiscale: " + txtCod.Text;
             sw.WriteLine(s);
             s = "Username: " + txtUser.Text;
             sw.WriteLine(s);
@@ -39,15 +43,12 @@ namespace Registrazione_form
             sw.Close();
         }
 
+
         public static bool controllautente(string utente)
         {
             bool valido = true;
-            int i = 0;
-            while ((utenti[i]!=utente)&&(i!=utenti.Length-1))
-            {
-                i++;
-            }
-            if(utenti[i]==utente)
+            userName u = miaLista.Find(x => x.user == utente);
+            if(u.user!=null)
             {
                 valido = false;
             }
@@ -56,16 +57,12 @@ namespace Registrazione_form
 
         public static void inserisciUtente(string username)
         {
-            bool inserito = false;
-            int i = 0;
-            while (!inserito)
-            {
-                if(utenti[i]=="default")
-                {
-                    utenti[i] = username;
-                    inserito = true;
-                }
-            }
+            //dichiaro un elemento della lista associato alla struttura
+            userName utente;
+            utente.user = username;
+
+            //aggiungo l'elemento nella lista
+            miaLista.Add(utente);
         }
     }
 }

@@ -11,6 +11,7 @@ namespace Esercizio_ereditarietà_2
         new public string nome;
         public Mannaro(): base()
         {
+            //System.Windows.Forms.MessageBox.Show("terzo");
             this.nome = "Mannaro";
         }
         public Mannaro(string nome): base(nome)

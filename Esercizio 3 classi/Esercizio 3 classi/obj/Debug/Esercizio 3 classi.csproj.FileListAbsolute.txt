@@ -1,0 +1,10 @@
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\bin\Debug\Esercizio 3 classi.exe.config
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\bin\Debug\Esercizio 3 classi.exe
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\bin\Debug\Esercizio 3 classi.pdb
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\obj\Debug\Esercizio 3 classi.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\obj\Debug\Esercizio_3_classi.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\obj\Debug\Esercizio_3_classi.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\obj\Debug\Esercizio 3 classi.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\obj\Debug\Esercizio 3 classi.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\obj\Debug\Esercizio 3 classi.exe
+D:\4B Inf 2020 2021\Informatica\Esercizio 3 classi\Esercizio 3 classi\obj\Debug\Esercizio 3 classi.pdb

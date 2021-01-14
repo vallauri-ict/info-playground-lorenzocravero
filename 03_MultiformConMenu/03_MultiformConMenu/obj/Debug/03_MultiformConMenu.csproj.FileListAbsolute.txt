@@ -5,9 +5,9 @@ D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debu
 D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\_03_MultiformConMenu.Form1.resources
 D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\_03_MultiformConMenu.Properties.Resources.resources
 D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\03_MultiformConMenu.csproj.GenerateResource.cache
-D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\03_MultiformConMenu.csproj.CoreCompileInputs.cache
 D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\03_MultiformConMenu.exe
 D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\03_MultiformConMenu.pdb
 D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\_03_MultiformConMenu.Form2.resources
 D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\_03_MultiformConMenu.FormFiglia.resources
 D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\_03_MultiformConMenu.Form3.resources
+D:\4B Inf 2020 2021\Informatica\03_MultiformConMenu\03_MultiformConMenu\obj\Debug\_03_MultiformConMenu.FormModale.resources

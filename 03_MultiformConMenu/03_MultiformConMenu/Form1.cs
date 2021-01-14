@@ -35,5 +35,23 @@ namespace _03_MultiformConMenu
             f2b.Text = "Aperta f2b dinamica";
             f2b.Show();
         }
+
+        private void apriFormModaleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormModale fm = new FormModale();
+            if(fm.ShowDialog()==DialogResult.OK)
+            {
+                fm.Text = "Aperta form modale";
+                txt1.Text = fm.nome;
+                txt2.Text = fm.eta;
+                MessageBox.Show("Premuto ok");
+            }
+            else
+            {
+                txt1.Text = "";
+                txt2.Text = "";
+                MessageBox.Show("Premuto annulla");
+            }
+        }
     }
 }

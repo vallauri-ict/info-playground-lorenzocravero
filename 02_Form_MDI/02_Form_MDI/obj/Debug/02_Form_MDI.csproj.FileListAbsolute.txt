@@ -10,3 +10,15 @@ C:\Users\l.cravero.1295\Desktop\Esercizi 4B Informatica\02_Form_MDI\02_Form_MDI\
 C:\Users\l.cravero.1295\Desktop\Esercizi 4B Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\02_Form_MDI.pdb
 C:\Users\l.cravero.1295\Desktop\Esercizi 4B Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\_02_Form_MDI.Figlia2.resources
 C:\Users\l.cravero.1295\Desktop\Esercizi 4B Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\_02_Form_MDI.ModalEsci.resources
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\bin\Debug\02_Form_MDI.exe.config
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\bin\Debug\02_Form_MDI.exe
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\bin\Debug\02_Form_MDI.pdb
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\02_Form_MDI.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\_02_Form_MDI.Figlia1.resources
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\_02_Form_MDI.Figlia2.resources
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\_02_Form_MDI.Form1.resources
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\_02_Form_MDI.ModalEsci.resources
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\_02_Form_MDI.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\02_Form_MDI.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\02_Form_MDI.exe
+D:\4B Inf 2020 2021\Informatica\02_Form_MDI\02_Form_MDI\obj\Debug\02_Form_MDI.pdb

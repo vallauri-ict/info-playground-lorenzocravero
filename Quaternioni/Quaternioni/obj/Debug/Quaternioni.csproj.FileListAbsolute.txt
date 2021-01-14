@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\bin\Debug\Quaternioni.exe.config
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\bin\Debug\Quaternioni.exe
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\bin\Debug\Quaternioni.pdb
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\obj\Debug\Quaternioni.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\obj\Debug\Quaternioni.Form1.resources
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\obj\Debug\Quaternioni.Properties.Resources.resources
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\obj\Debug\Quaternioni.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\obj\Debug\Quaternioni.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\obj\Debug\Quaternioni.exe
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Quaternioni\Quaternioni\obj\Debug\Quaternioni.pdb

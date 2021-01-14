@@ -24,15 +24,18 @@ namespace Esercizio_ereditarietà_2
 
         public Mostro Clona_V(Mostro p)
         {
-            p = new Mostro("Valuex");
-            p.nome = "Cambia";
+            //essendo un passaggio per valore il parametro passato NON cambia ma verrà restituito un nuovo mostro
+            //con le modifiche effettuate
+            p = new Mostro();
+            p.nome = "Cambia solo il secondo";
             return p;
         }
 
         public Mostro Clona_R(ref Mostro p)
         {
+            //essendo un passaggio per referenza ANCHE l'oggetto passato cambierà il suo nome
             p = new Mostro("Referx");
-            p.nome = "Cambia";
+            p.nome = "Cambiano entrambi i nomi";
             return p;
         }
 

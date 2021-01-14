@@ -35,6 +35,8 @@ namespace Esercizio_preparazione_Verifica_04
             {
                 MessageBox.Show("Nome: "+fs.nome);
                 MessageBox.Show("Età: "+fs.eta);
+                textBox1.Text = fs.nome;
+                textBox3.Text = fs.eta;
             }
             else
             {
@@ -44,20 +46,13 @@ namespace Esercizio_preparazione_Verifica_04
 
         private void btnModificaMain_Click(object sender, EventArgs e)
         {
-            testoMain = txtModificaMain.Text;
+            
         }
 
         private void figliaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            btnRicevi ff = new btnRicevi();
-            if (ff.ShowDialog() == DialogResult.OK)
-            {
-                txtModificaMain.Text = ff.testoFiglia;
-            }
-            else
-            {
-                txtModificaMain.Text = "";
-            }
+            Figlia ff = new Figlia(txtModificaMain);
+            ff.Show();
         }
 
         private void mDIToolStripMenuItem_Click(object sender, EventArgs e)
@@ -73,6 +68,11 @@ namespace Esercizio_preparazione_Verifica_04
             {
                 Close();
             }
+        }
+
+        private void infoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Esercizio in preparazione alla verifica");
         }
     }
 }

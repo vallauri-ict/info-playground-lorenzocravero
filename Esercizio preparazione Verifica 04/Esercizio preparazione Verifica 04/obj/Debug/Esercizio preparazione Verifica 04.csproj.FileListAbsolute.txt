@@ -11,3 +11,30 @@ C:\Users\l.cravero.1295\Desktop\Esercizi 4B Informatica\Esercizio preparazione V
 C:\Users\l.cravero.1295\Desktop\Esercizi 4B Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.btnRicevi.resources
 C:\Users\l.cravero.1295\Desktop\Esercizi 4B Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.MDI.resources
 C:\Users\l.cravero.1295\Desktop\Esercizi 4B Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Esci.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\bin\Debug\Esercizio preparazione Verifica 04.exe.config
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\bin\Debug\Esercizio preparazione Verifica 04.exe
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\bin\Debug\Esercizio preparazione Verifica 04.pdb
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Esci.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.btnRicevi.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.MDI.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Secondaria.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.exe
+D:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.pdb
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\bin\Debug\Esercizio preparazione Verifica 04.exe.config
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\bin\Debug\Esercizio preparazione Verifica 04.exe
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\bin\Debug\Esercizio preparazione Verifica 04.pdb
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.csprojAssemblyReference.cache
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Esci.resources
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Form1.resources
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.MDI.resources
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Properties.Resources.resources
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Secondaria.resources
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.csproj.GenerateResource.cache
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.exe
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio preparazione Verifica 04.pdb
+F:\4B Inf 2020 2021\Informatica\Esercizio preparazione Verifica 04\Esercizio preparazione Verifica 04\obj\Debug\Esercizio_preparazione_Verifica_04.Figlia.resources
