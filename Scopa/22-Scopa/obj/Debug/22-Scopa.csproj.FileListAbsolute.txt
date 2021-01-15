@@ -8,3 +8,13 @@ C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\22-Scopa\22-Scopa\obj\De
 C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\22-Scopa\22-Scopa\obj\Debug\22-Scopa.exe
 C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\22-Scopa\22-Scopa\obj\Debug\22-Scopa.pdb
 C:\Users\iangj\Desktop\info-playground-ivan-angjelovski\22-Scopa\22-Scopa\obj\Debug\_22_Scopa.Form1.resources
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\bin\Debug\22-Scopa.exe.config
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\bin\Debug\22-Scopa.exe
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\bin\Debug\22-Scopa.pdb
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\obj\Debug\22-Scopa.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\obj\Debug\_22_Scopa.Form1.resources
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\obj\Debug\_22_Scopa.Properties.Resources.resources
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\obj\Debug\22-Scopa.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\obj\Debug\22-Scopa.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\obj\Debug\22-Scopa.exe
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Scopa\22-Scopa\obj\Debug\22-Scopa.pdb

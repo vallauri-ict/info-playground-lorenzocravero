@@ -13,21 +13,28 @@ namespace _22_Scopa
         private string seme;
         private int valore;
 
-        public string SEME
+        public Carta(int valore,string seme)
+        {
+            Seme = seme;
+            Valore = valore;
+        }
+
+        public string Seme
         {
             get => seme;
             set => seme = value;
         }
 
-        public int VALORE
+        public int Valore
         {
             get => valore;
             set => valore = value;
         }
 
-        public void lettura()
+        public void Lettura(out string seme, out int valore)
         {
-            MessageBox.Show("Valore: " + valore.ToString() + "\nSeme: " + seme.ToString());
+            seme = this.seme;
+            valore = this.valore;
         }
     }
 }
