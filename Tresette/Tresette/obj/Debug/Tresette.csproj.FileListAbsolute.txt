@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Tresette\Tresette\bin\Debug\Tresette.exe.config
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Tresette\Tresette\bin\Debug\Tresette.exe
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Tresette\Tresette\obj\Debug\Tresette.Form1.resources
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Tresette\Tresette\obj\Debug\Tresette.Properties.Resources.resources
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Tresette\Tresette\obj\Debug\Tresette.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Tresette\Tresette\obj\Debug\Tresette.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Tresette\Tresette\obj\Debug\Tresette.exe
+C:\Users\Utente\Desktop\4B INF-Backup\Informatica\Tresette\Tresette\obj\Debug\Tresette.pdb
