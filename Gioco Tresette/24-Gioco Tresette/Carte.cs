@@ -3,37 +3,36 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
-namespace Tresette
+namespace _24_Gioco_Tresette
 {
-    class Carte
+    class Carte 
     {
         private string valore;
         private string seme;
 
         private string[] valori = { "Asso", "2", "3", "4", "5", "6", "7", "Fante", "Regina", "Re" };
-        private string[] semi = { "Cuori", "Picche", "Quadri", "Fiori" };
+        private string[] semi = { "Cuore", "Picche", "Fiore", "Quadri" };
 
-        public string VALORE
+        public string Valore
         {
             get => valore;
             set => valore = value;
         }
 
-        public string SEME
+        public string Seme
         {
             get => seme;
             set => seme = value;
         }
 
-        public string proponi()
+        public void Proponi()
         {
             Random rnd = new Random();
-
-            VALORE = valori[rnd.Next(0, valori.Length)];
-            SEME = semi[rnd.Next(0, semi.Length)];
-
-            return VALORE + " di " + SEME;
+            Valore = valori[rnd.Next(0, valori.Length)];
+            Seme = semi[rnd.Next(0, semi.Length)];
+            MessageBox.Show(Valore + " " + Seme);
         }
     }
 }

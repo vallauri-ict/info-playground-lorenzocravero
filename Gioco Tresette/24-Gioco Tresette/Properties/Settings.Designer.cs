@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tresette.Properties
+namespace _24_Gioco_Tresette.Properties
 {
 
 
