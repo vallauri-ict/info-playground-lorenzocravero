@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _24_Gioco_Tresette.Properties
+namespace _24_EreditarietàMondoAnimale.Properties
 {
 
 

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _24_Gioco_Tresette.Properties
+namespace _23_EreditarietàGiocoTresette.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace _24_Gioco_Tresette.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("_24_Gioco_Tresette.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("_23_EreditarietàGiocoTresette.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A57BE11A-D524-4902-ABA2-4AC20F3DF862}</ProjectGuid>
+    <ProjectGuid>{437E8E56-5AE4-44E6-A85C-9E92CDB280C5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_24_Gioco_Tresette</RootNamespace>
-    <AssemblyName>24-Gioco Tresette</AssemblyName>
+    <RootNamespace>_23_EreditarietàGiocoTresette</RootNamespace>
+    <AssemblyName>23-EreditarietàGiocoTresette</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

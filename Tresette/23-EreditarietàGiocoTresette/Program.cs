@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _24_Gioco_Tresette
+namespace _23_EreditarietàGiocoTresette
 {
     static class Program
     {
