@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\bin\Debug\Primo es Delegate.exe.config
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\bin\Debug\Primo es Delegate.exe
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\bin\Debug\Primo es Delegate.pdb
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\obj\Debug\Primo es Delegate.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\obj\Debug\Primo_es_Delegate.Form1.resources
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\obj\Debug\Primo_es_Delegate.Properties.Resources.resources
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\obj\Debug\Primo es Delegate.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\obj\Debug\Primo es Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\obj\Debug\Primo es Delegate.exe
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Primo es Delegate\Primo es Delegate\obj\Debug\Primo es Delegate.pdb
