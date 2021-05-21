@@ -1,0 +1,20 @@
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\bin\Debug\SecondoEsDispenseMana-Delegate.exe.config
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\bin\Debug\SecondoEsDispenseMana-Delegate.exe
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\bin\Debug\SecondoEsDispenseMana-Delegate.pdb
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana_Delegate.Form1.resources
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana_Delegate.Properties.Resources.resources
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.exe
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.pdb
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\bin\Debug\SecondoEsDispenseMana-Delegate.exe.config
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\bin\Debug\SecondoEsDispenseMana-Delegate.exe
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\bin\Debug\SecondoEsDispenseMana-Delegate.pdb
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana_Delegate.Form1.resources
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana_Delegate.Properties.Resources.resources
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.exe
+C:\Users\Utente\Desktop\4B INF Desktop\Informatica\SecondoEsDispenseMana-Delegate\SecondoEsDispenseMana-Delegate\obj\Debug\SecondoEsDispenseMana-Delegate.pdb

@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Userl Control\Userl Control\bin\Debug\Userl Control.dll
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Userl Control\Userl Control\bin\Debug\Userl Control.pdb
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Userl Control\Userl Control\obj\Debug\Userl Control.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Userl Control\Userl Control\obj\Debug\Userl_Control.UcTextBox.resources
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Userl Control\Userl Control\obj\Debug\Userl Control.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Userl Control\Userl Control\obj\Debug\Userl Control.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Userl Control\Userl Control\obj\Debug\Userl Control.dll
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\Userl Control\Userl Control\obj\Debug\Userl Control.pdb

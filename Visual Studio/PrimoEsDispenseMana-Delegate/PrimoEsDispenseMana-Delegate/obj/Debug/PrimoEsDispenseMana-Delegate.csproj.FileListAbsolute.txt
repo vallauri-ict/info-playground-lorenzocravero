@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\bin\Debug\PrimoEsDispenseMana-Delegate.exe.config
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\bin\Debug\PrimoEsDispenseMana-Delegate.exe
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\bin\Debug\PrimoEsDispenseMana-Delegate.pdb
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\obj\Debug\PrimoEsDispenseMana-Delegate.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\obj\Debug\PrimoEsDispenseMana_Delegate.Form1.resources
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\obj\Debug\PrimoEsDispenseMana_Delegate.Properties.Resources.resources
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\obj\Debug\PrimoEsDispenseMana-Delegate.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\obj\Debug\PrimoEsDispenseMana-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\obj\Debug\PrimoEsDispenseMana-Delegate.exe
+C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\PrimoEsDispenseMana-Delegate\PrimoEsDispenseMana-Delegate\obj\Debug\PrimoEsDispenseMana-Delegate.pdb

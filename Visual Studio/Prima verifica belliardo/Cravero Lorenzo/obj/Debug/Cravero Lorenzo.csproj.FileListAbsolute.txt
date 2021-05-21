@@ -1,0 +1,25 @@
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\bin\Debug\Cravero Lorenzo.exe.config
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\bin\Debug\Cravero Lorenzo.exe
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\bin\Debug\Cravero Lorenzo.pdb
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.csprojAssemblyReference.cache
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Figlia1.resources
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Figlia2.resources
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Form1.resources
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Properties.Resources.resources
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.csproj.GenerateResource.cache
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.exe
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.pdb
+C:\Users\l.cravero.1295\Desktop\Cravero Lorenzo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Esci.resources
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\bin\Debug\Cravero Lorenzo.exe.config
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\bin\Debug\Cravero Lorenzo.exe
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\bin\Debug\Cravero Lorenzo.pdb
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Esci.resources
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Figlia1.resources
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Figlia2.resources
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero_Lorenzo.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.exe
+D:\4B Inf 2020 2021\Informatica\Prima verifica belliardo\Cravero Lorenzo\obj\Debug\Cravero Lorenzo.pdb

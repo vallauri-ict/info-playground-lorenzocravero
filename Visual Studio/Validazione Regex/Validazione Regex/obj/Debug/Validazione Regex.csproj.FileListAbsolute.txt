@@ -1,0 +1,10 @@
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\bin\Debug\Validazione Regex.exe.config
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\bin\Debug\Validazione Regex.exe
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\bin\Debug\Validazione Regex.pdb
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\obj\Debug\Validazione Regex.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\obj\Debug\Validazione_Regex.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\obj\Debug\Validazione_Regex.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\obj\Debug\Validazione Regex.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\obj\Debug\Validazione Regex.csproj.CoreCompileInputs.cache
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\obj\Debug\Validazione Regex.exe
+D:\4B Inf 2020 2021\Informatica\Validazione Regex\Validazione Regex\obj\Debug\Validazione Regex.pdb

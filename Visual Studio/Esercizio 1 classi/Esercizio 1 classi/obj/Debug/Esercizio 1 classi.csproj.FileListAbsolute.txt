@@ -1,0 +1,10 @@
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\bin\Debug\Esercizio 1 classi.exe.config
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\bin\Debug\Esercizio 1 classi.exe
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\bin\Debug\Esercizio 1 classi.pdb
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\obj\Debug\Esercizio 1 classi.csprojAssemblyReference.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\obj\Debug\Esercizio_1_classi.Form1.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\obj\Debug\Esercizio_1_classi.Properties.Resources.resources
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\obj\Debug\Esercizio 1 classi.csproj.GenerateResource.cache
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\obj\Debug\Esercizio 1 classi.exe
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\obj\Debug\Esercizio 1 classi.pdb
+D:\4B Inf 2020 2021\Informatica\Esercizio 1 classi\Esercizio 1 classi\obj\Debug\Esercizio 1 classi.csproj.CoreCompileInputs.cache
