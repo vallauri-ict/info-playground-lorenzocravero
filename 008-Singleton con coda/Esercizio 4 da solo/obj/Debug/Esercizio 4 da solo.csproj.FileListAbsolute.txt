@@ -1,9 +1,0 @@
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\bin\Debug\Esercizio 4 da solo.exe.config
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\bin\Debug\Esercizio 4 da solo.exe
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\bin\Debug\Esercizio 4 da solo.pdb
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\obj\Debug\Esercizio_4_da_solo.Form1.resources
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\obj\Debug\Esercizio_4_da_solo.Properties.Resources.resources
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\obj\Debug\Esercizio 4 da solo.csproj.GenerateResource.cache
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\obj\Debug\Esercizio 4 da solo.csproj.CoreCompileInputs.cache
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\obj\Debug\Esercizio 4 da solo.exe
-D:\4B Inf 2020 2021\Informatica\Esercizio 4 da solo\Esercizio 4 da solo\obj\Debug\Esercizio 4 da solo.pdb

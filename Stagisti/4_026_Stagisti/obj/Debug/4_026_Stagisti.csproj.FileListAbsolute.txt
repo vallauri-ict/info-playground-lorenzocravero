@@ -1,9 +1,0 @@
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.csprojAssemblyReference.cache
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\obj\Debug\_4_026_Stagisti.Form1.resources
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\obj\Debug\_4_026_Stagisti.Properties.Resources.resources
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.csproj.GenerateResource.cache
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\bin\Debug\4_026_Stagisti.exe.config
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\bin\Debug\4_026_Stagisti.exe
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\bin\Debug\4_026_Stagisti.pdb
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.exe
-C:\Users\l.cravero.1295\Desktop\Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.pdb

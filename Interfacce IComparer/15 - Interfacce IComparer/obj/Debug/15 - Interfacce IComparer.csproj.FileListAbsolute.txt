@@ -1,9 +1,0 @@
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\bin\Debug\15 - Interfacce IComparer.exe.config
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\bin\Debug\15 - Interfacce IComparer.exe
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\bin\Debug\15 - Interfacce IComparer.pdb
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\obj\Debug\_15___Interfacce_IComparer.Form1.resources
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\obj\Debug\_15___Interfacce_IComparer.Properties.Resources.resources
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\obj\Debug\15 - Interfacce IComparer.csproj.GenerateResource.cache
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\obj\Debug\15 - Interfacce IComparer.csproj.CoreCompileInputs.cache
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\obj\Debug\15 - Interfacce IComparer.exe
-C:\Users\Utente\Desktop\4B INF-Desktop\Informatica\15 - Interfacce IComparer\15 - Interfacce IComparer\obj\Debug\15 - Interfacce IComparer.pdb

@@ -1,9 +1,0 @@
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\bin\Debug\Interfacce-2.exe.config
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\bin\Debug\Interfacce-2.exe
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\bin\Debug\Interfacce-2.pdb
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\obj\Debug\Interfacce-2.csprojAssemblyReference.cache
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\obj\Debug\Interfacce_2.Form1.resources
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\obj\Debug\Interfacce_2.Properties.Resources.resources
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\obj\Debug\Interfacce-2.csproj.GenerateResource.cache
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\obj\Debug\Interfacce-2.exe
-C:\Users\l.cravero.1295\Desktop\Interfacce-2\Interfacce-2\obj\Debug\Interfacce-2.pdb

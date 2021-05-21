@@ -1,9 +1,0 @@
-Cognome: Ctete
-Nome: Lorenzo
-Indirizzo: Via Paserio 1
-Città: Fossano
-CAP: 12045
-Mail: lollo.crave@gmail.com
-Codice fiscale: CRVLNZ03D16D205G
-Username: marione
-Password: donCrave03!
